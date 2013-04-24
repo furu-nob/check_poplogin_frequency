@@ -1,0 +1,6 @@
+# Import logs to DB.
+rails runner Tasks::ImportLog.execute
+
+# Excure Check loginscripts.
+rails runner Tasks::CheckPoplogin.execute
+
