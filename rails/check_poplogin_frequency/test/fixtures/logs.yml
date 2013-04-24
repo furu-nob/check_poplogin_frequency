@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  Unixtime: 1
+  LogionID: MyString
+  Destip: MyString
+
+two:
+  Unixtime: 1
+  LogionID: MyString
+  Destip: MyString
